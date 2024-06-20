@@ -1,7 +1,6 @@
 # prueba.py
 
 
-
 def saludo():
 	print("Hola mundo")
 
