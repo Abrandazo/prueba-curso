@@ -1,9 +1,7 @@
 # prueba.py
 
 
-hola 
-
-
+hola esta es una ultra prueba 
 
 def saludo():
 	print("Hola mundo")
