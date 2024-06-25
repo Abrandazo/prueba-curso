@@ -1,6 +1,5 @@
 # prueba.py
 
-xaxaxassa
 
 hola 
 
