@@ -16,8 +16,4 @@ if __name__== "__main__":
 	print(f"La suma de 3 y 5 es:
  {resultado}")
 
-
-AQUI HASTA ABAJO ESTAN TODOS LOS CAMBIOS NUEVOS
-
-PRUEBA V2
  
